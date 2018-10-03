@@ -1,0 +1,5 @@
+Factory Method
+Encapsular a escolha da classe concreta a ser utilizada na criação de objetos de um determinado tipo.
+"Definir uma clase que será responsável por criar um determinado tipo de objeto"
+
+
