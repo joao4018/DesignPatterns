@@ -1,0 +1,8 @@
+Converter a interface de uma classe em outra interface, esperada pelos clientes.O Adapter permite que classes com interfaces incompatíveis trabalhem em conjunto o que, de outra forma, seria impossível.
+Uso:
+1 - Voce quiser usar uma classe existente, mas sua interface não corresponder à interface de que necessita;
+
+2 - voce quiser cirar uma classe reutilizável que coopere com classes não relacionadas ou não previstas, ou seja classes que não necessariamente tenham interfaces compatíveis;
+
+3 - (somente para adpatadores de objetos) voce precisar usar várias sublcasses existente, porém, for impraticável adaptar essas interfaces criando subclasses pada cada uma. um adaptador de objeto pode adaptar a interface da sua class mãe. 
+

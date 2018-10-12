@@ -1,0 +1,5 @@
+Intenção:Forncer uma interface para criação de famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+Uso:1-Um sistema deve ser independetes de como seus produtos são criados, compostos ou representados;
+2-Um sistema deve ser configurado como um produto de uma família de múltiplos produtos;
+3-Uma família de objetos-produto for projetada para ser usada em conjunto, e você necessita garantir esta restrição;
+4-Você quer fornecer uma biblioteca de classes de produtos e quer revelar somente suas interfaces,não suas implementações.

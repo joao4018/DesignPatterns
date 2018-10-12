@@ -1,0 +1,5 @@
+Inteção:Separar a construção de um objeto complexo de sua apresentação de modo que o mesmo processo de construção possar criar diferentes representações.
+
+Uso:O algortimo parar criação deum objeto complexo deve ser independente das partes que compõem o objetoe de como elas são montadas
+O processo de construção deve permitir diferentes representações para o objeto que é construido.
+
